@@ -89,11 +89,11 @@ export default function App() {
 
     // --- Academic Projects ---
     {
-      title: "Ceyloan Public Transit",
+      title: "Ceyloan Public Transit Mobile App",
       type: "Academic",
       desc: "Smart Digital Transit Solution featuring dynamic fare calculation, real-time tracking, and QR digital ticketing.",
       tags: ["Android", "Firebase", "Google Maps API"],
-      link: "https://github.com/vikashudarsha/cpt"
+      link: "https://www.linkedin.com/posts/vikash-udarsha_softwareengineering-androiddevelopment-firebase-activity-7447291379270963200-ISju?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEIy6p0BwNRjdvaIkxIzOKWo5wgtgYRzZOU"
     },
     {
       title: "UniLink Chat Application",

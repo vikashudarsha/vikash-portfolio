@@ -172,8 +172,8 @@ export default function App() {
   ];
 
   const certificates = [
-    { title: "SLIIT Certificate Stage 1", platform: "Code.sliit.org", link: "https://code.sliit.org/certificates/fsdsvwjbgd" },
-    { title: "SLIIT Certificate Stage 2", platform: "Code.sliit.org", link: "https://code.sliit.org/certificates/bg5avfavvo" },
+    { title: "SLIIT Certificate AI/ML Stage 1", platform: "Code.sliit.org", link: "https://code.sliit.org/certificates/fsdsvwjbgd" },
+    { title: "SLIIT Certificate AI/ML Stage 2", platform: "Code.sliit.org", link: "https://code.sliit.org/certificates/bg5avfavvo" },
     { title: "Stay Ahead of the AI Curve", platform: "Google", link: "https://coursera.org/share/041cec0a5af37ce01da7e6572e085a12" },
     { title: "Use AI Responsibly", platform: "Google", link: "https://coursera.org/share/b451029e9d939cb75f6726d8af384883" },
     { title: "Discover the Art of Prompting", platform: "Google", link: "https://coursera.org/share/f1471580ebda0b998c985c4b71b1dcc3" },

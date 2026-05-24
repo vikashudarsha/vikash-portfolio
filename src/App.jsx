@@ -288,6 +288,8 @@ export default function App() {
               <li className="flex items-center gap-2"><ChevronRight size={14} className="text-cyan-400" /> Java / Spring Boot</li>
               <li className="flex items-center gap-2"><ChevronRight size={14} className="text-cyan-400" /> Node.js / Flask</li>
               <li className="flex items-center gap-2"><ChevronRight size={14} className="text-cyan-400" /> Python (ML)</li>
+              <li className="flex items-center gap-2"><ChevronRight size={14} className="text-cyan-400" /> PHP </li>
+
             </ul>
             <ul className="space-y-3">
               <li className="flex items-center gap-2"><ChevronRight size={14} className="text-cyan-400" /> Tailwind CSS v4</li>
